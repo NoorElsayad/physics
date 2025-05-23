@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -283,8 +283,6 @@
       ✍️ Submit Your Feedback Form
     </a>
   </div>
-</section>
-    </p>
   </form>
 </section>
 done by: Noor Amgad
